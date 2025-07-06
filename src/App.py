@@ -8,7 +8,7 @@ CORS(app)  # Enable CORS for all routes
 # Initialize the client
 client = OpenAI(
   base_url="https://integrate.api.nvidia.com/v1",
-  api_key="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"
+  api_key="_"
 )
  
 
